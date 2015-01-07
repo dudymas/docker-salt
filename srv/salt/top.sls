@@ -14,18 +14,3 @@ base:
     - docker.docker-service
     - git
 
-  #Minecraft
-#  'minecraft':
-#    - minecraft
-
-  #IPython
-#  'ipython_host':
-#    - ipython
-
-  #Dashing
-#  'dashing_host':
-#    - dashing
-
-  #Redis
-#  'redis_host':
-#    - redis
